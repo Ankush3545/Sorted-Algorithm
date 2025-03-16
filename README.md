@@ -1,7 +1,7 @@
 # Sorting-Algorithm
-Array Sorting algorithm
-1.Bubble Sort
-2.Selection sort
-3.Insertion sort
-4.Quick Sort
-5.Merge sort
+Array Sorting algorithm<br>
+1.Bubble Sort<br>
+2.Selection sort<br>
+3.Insertion sort<br>
+4.Quick Sort<br>
+5.Merge sort<br>
