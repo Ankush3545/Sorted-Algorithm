@@ -1,5 +1,5 @@
 # Sorting-Algorithm
-Array Sorting algorithm:<br>
+Array Sorting algorithm<br>
 1.Bubble Sort.<br>
 2.Selection sort.<br>
 3.Insertion sort.<br>
